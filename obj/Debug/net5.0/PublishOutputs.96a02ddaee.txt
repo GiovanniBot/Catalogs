@@ -1,0 +1,11 @@
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\Catalogs.exe
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\Catalogs.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\Catalogs.deps.json
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\Catalogs.runtimeconfig.json
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\Catalogs.pdb
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
