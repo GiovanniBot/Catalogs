@@ -27,3 +27,15 @@ C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\obj\Debug\net5.0\Cata
 C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\obj\Debug\net5.0\ref\Catalogs.dll
 C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\obj\Debug\net5.0\Catalogs.pdb
 C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\obj\Debug\net5.0\Catalogs.genruntimeconfig.cache
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Giovanni Almeida\Documents\Projetos .NET\Catalogs\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
