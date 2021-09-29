@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "swPMrOPhNCpTk1IbkYJAama3O8ZqdU/2dcZTOge7MO6zFmvf+0QOrRVarmrVCsdVPlH2v+Sx5WmOUOPj554DaQ==",
+  "dgSpecHash": "nzrPysTHuaeE2zohWsBwS+uD1xHR2PNPzFtVpsn9fZ4I8WyIk1y5yHG26jyM4UTJCP5AAmQ7XFVP8w0iE7Satg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Giovanni Almeida\\Documents\\Projetos .NET\\Catalogs\\Catalogs.csproj",
+  "projectFilePath": "C:\\Users\\Giovanni Almeida\\Documents\\Projetos_.NET\\Catalogs\\Catalogs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Giovanni Almeida\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Giovanni Almeida\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

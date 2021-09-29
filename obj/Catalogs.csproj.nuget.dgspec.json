@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giovanni Almeida\\Documents\\Projetos .NET\\Catalogs\\Catalogs.csproj": {}
+    "C:\\Users\\Giovanni Almeida\\Documents\\Projetos_.NET\\Catalogs\\Catalogs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giovanni Almeida\\Documents\\Projetos .NET\\Catalogs\\Catalogs.csproj": {
+    "C:\\Users\\Giovanni Almeida\\Documents\\Projetos_.NET\\Catalogs\\Catalogs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giovanni Almeida\\Documents\\Projetos .NET\\Catalogs\\Catalogs.csproj",
+        "projectUniqueName": "C:\\Users\\Giovanni Almeida\\Documents\\Projetos_.NET\\Catalogs\\Catalogs.csproj",
         "projectName": "Catalogs",
-        "projectPath": "C:\\Users\\Giovanni Almeida\\Documents\\Projetos .NET\\Catalogs\\Catalogs.csproj",
+        "projectPath": "C:\\Users\\Giovanni Almeida\\Documents\\Projetos_.NET\\Catalogs\\Catalogs.csproj",
         "packagesPath": "C:\\Users\\Giovanni Almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giovanni Almeida\\Documents\\Projetos .NET\\Catalogs\\obj\\",
+        "outputPath": "C:\\Users\\Giovanni Almeida\\Documents\\Projetos_.NET\\Catalogs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Giovanni Almeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
