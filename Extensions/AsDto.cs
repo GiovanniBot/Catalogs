@@ -1,9 +1,9 @@
 using Catalogs.Dtos;
 using Catalogs.Entities;
 
-namespace Catalogs
+namespace Catalogs.Extensions
 {
-    public static class Extensions
+    public static class AsDtoExtension
     {
         public static ItemDto AsDto(this Item item)
         {

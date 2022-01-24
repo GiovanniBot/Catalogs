@@ -80,3 +80,46 @@ C:\Users\Giovanni Almeida\Documents\Projetos_.NET\Catalogs\obj\Debug\net5.0\Cata
 C:\Users\Giovanni Almeida\Documents\Projetos_.NET\Catalogs\obj\Debug\net5.0\ref\Catalogs.dll
 C:\Users\Giovanni Almeida\Documents\Projetos_.NET\Catalogs\obj\Debug\net5.0\Catalogs.pdb
 C:\Users\Giovanni Almeida\Documents\Projetos_.NET\Catalogs\obj\Debug\net5.0\Catalogs.genruntimeconfig.cache
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\ref\Catalogs.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.pdb
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\appsettings.json
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Catalogs.StaticWebAssets.xml
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Catalogs.exe
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Catalogs.deps.json
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Catalogs.runtimeconfig.json
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Catalogs.runtimeconfig.dev.json
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Catalogs.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\ref\Catalogs.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Catalogs.pdb
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\DnsClient.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.csproj.AssemblyReference.cache
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.AssemblyInfoInputs.cache
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.AssemblyInfo.cs
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.csproj.CoreCompileInputs.cache
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\scopedcss\bundle\Catalogs.styles.css
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\staticwebassets\Catalogs.StaticWebAssets.Manifest.cache
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.RazorTargetAssemblyInfo.cache
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.csproj.CopyComplete
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.genruntimeconfig.cache
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\bin\Debug\net5.0\Catalogs.xml
+C:\Users\galmeida\Documents\projects\clone_catalogs\Catalogs\obj\Debug\net5.0\Catalogs.xml
